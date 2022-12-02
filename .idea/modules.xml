@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/slid_window_demo.iml" filepath="$PROJECT_DIR$/.idea/slid_window_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slide_window_current_limiting/slide_window_current_limiting.iml" filepath="$PROJECT_DIR$/slide_window_current_limiting/slide_window_current_limiting.iml" />
+    </modules>
+  </component>
+</project>
